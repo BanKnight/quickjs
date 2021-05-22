@@ -1,2 +1,0 @@
-# Quickjs Cmake
-
